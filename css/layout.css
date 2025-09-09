@@ -1,3 +1,10 @@
 body {
     font-family:"neue-haas-unica";
 }
+h1,h2, {
+    font-family: "r41-alfabeta-72", sans-serif;
+}
+
+h1 {
+    font-size:40px;
+}
