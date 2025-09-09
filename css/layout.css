@@ -1,10 +1,21 @@
+:root {
+    --bg-color: #000;
+    --text-color: #fff;
+    --accent-color: #ff0000;
+}
+
 body {
     font-family:"neue-haas-unica";
 }
-h1,h2, {
+h1,h2 {
     font-family: "r41-alfabeta-72", sans-serif;
 }
 
 h1 {
     font-size:40px;
+}
+
+.nav-link {
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
