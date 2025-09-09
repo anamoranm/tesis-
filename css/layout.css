@@ -1,0 +1,21 @@
+body {
+    font-family:"neue-haas-unica";
+    background-color: #eae2cc ;
+}
+h1,h2,h3,h4,h5 {
+    font-family: "r41-alfabeta-72", sans-serif;
+}
+
+h1 {
+    font-size:40px;
+    text-align:center;
+}
+
+section {
+    width:80%;
+    margin: 5px auto;
+}
+
+article {
+    margin top: 5px; 
+}
